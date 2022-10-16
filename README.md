@@ -1,60 +1,80 @@
-<h1 align="centre">
-    <b>General Projects</b>
-</h1>
+![](./readmeImg/banner.png)
 
-<a href="https://github.com/codemistic/General-Projects/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/codemistic/General-Projects?color=2b9348"></a>
-<a href="https://github.com/codemistic/General-Projects/blob/master/LICENSE"><img src="https://img.shields.io/github/license/codemistic/General-Projects?color=2b9348" alt="License Badge"/></a>
-<a hreaf="https://github.com/codemistic/General-Projects/issues"><img src="https://img.shields.io/github/issues/codemistic/General-Projects?color=pink&logo=github"/></a>
-[![GitHub PRs](https://img.shields.io/github/issues-pr/codemistic/General-Projects?style=social&logo=github)](https://github.com/codemistic/General-Projects/pulls)           [![GitHub forks](https://img.shields.io/github/forks/codemistic/General-Projects?logo=git)](https://github.com/codemistic/General-Projects/network)                        
+# Shaif's Cuisine 👨‍🍳
 
+**Live preview: [click me](http://shaif-s-cuisine.netlify.app)**
 
-Steps to contribute in this repository
+**Watch on YouTube: ![YouTube Video Views](https://img.shields.io/youtube/views/4y-_3Ayiauw) [https://youtu.be/4y-_3Ayiauw](https://youtu.be/4y-_3Ayiauw)**
 
-    1. Fork this repo
-    2. Create a new folder/directory for your projects
-    3. Add useful code for the open-source community
-    4. Make pull request
-    5. Now, it time for review (Don't worry, our team we will review your Pull Request(PR) within 6 hours.
+A `HTML, CSS` Project. Made with ♥ by the `web cifar community`. There will be 5 pages in the website (HomePage, MenuPage, AboutPage, ContactPage, BookingPage). In this project we gonna learn how we can create a website using simple `HTML, CSS`. The main purpose of the project is to get more used to with HTML, CSS. Although we used a few lines of JavaScript in the project for necessary cases. Later on, in this project, we gonna learn how we can deploy this site using `Netlify`. Also, we gonna learn the process from the zero to end and make the website ready for live production.
 
-## Maintainers (Our Team for HacktoberFest)
+## What we are going to learn
 
-<table>
-<tr>
-    <td align="center" style="word-wrap: break-word; width: 200.0; height: 200.0">
-        <a href=https://linktr.ee/gantavyamalviya>
-            <img src=https://avatars.githubusercontent.com/u/39916680?v=4 width="200;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Gantavya Malviya/>
-            <br />
-            <sub style="font-size:14px"><b>Gantavya Malviya</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/TKirtan>
-            <img src=https://avatars.githubusercontent.com/u/38884247?v=4 width="200;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" />
-            <br />
-            <sub style="font-size:14px"><b>Kirtan</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/Adarsh-jaiss>
-            <img src=https://avatars.githubusercontent.com/u/96974600?v=4 width="200;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Adarsh jaiswal/>
-            <br />
-            <sub style="font-size:14px"><b>Adarsh jaiswal</b></sub>
-        </a>
-    </td>
-        
-</tr>
-</table>
+- HTML, CSS
+- CSS Grid
+- Scroll Animation
+- Netlify Deployment
+- Netlify Form functionality
+- More . . .
 
-## Top Contributors
-Update in progress....
+## Starter files
 
-### Thanks for visiting!
-### Regards,
-### Team CodeMistic
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/codemistic/)](https://www.linkedin.com/company/codemistic/)
-[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/codemistic/)](https://www.twitter.com/codemistic/)
-[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/codemistic.in/)](https://www.instagram.com/codemistic.in/)
-[![GitHub](https://img.shields.io/badge/-Github-%23100000.svg?&style=flat-square&logo=github&logoColor=white&link=https://www.github.com/codemistic/)](https://www.github.com/codemistic/)
-[![views](https://komarev.com/ghpvc/?username=codemistic&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/codemistic)
+You can find all the starter files in `starter_files` branch. You can to go to the `starter_files` branch and `download zip` the the starter files or You can clone the project and git checkout to `starter_files` branch.
 
-<a href="https://telegram.me/codemistic"><img alt="Custom badge for codemistic Group" src="https://img.shields.io/endpoint?style=for-the-badge&amp;url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-badge%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Ft.me%2Fcodemistic"></a>
+## Requirements
+
+- Basic HTML, CSS
+
+## Developer teams of Shaif's Cuisine
+
+- Shaif Arfan
+- Anwar saeed
+- MD Moniruzzaman Sojol
+- Lovekesh Pal
+- Houmayan Rashid Chy
+
+## Tools Used
+
+1. icons - (flat & Feather icons)
+2. illustration - [https://storyset.com/](https://storyset.com/)
+3. UI Design: Figma
+4. Code Editor: VS Code
+
+## Contributing
+
+Contributions are always welcome! 👇
+
+See `contributors` branch for ways to get started.
+
+## FAQ
+
+### How can i get started?
+
+You can get started by following the YouTube tutorial of this project. Here is the full tutorial video link: [coming soon].
+
+### What i need to start the project?
+
+Just open your favorite code editor and follow along with the `YouTube Tutorial`[coming soon].
+
+### Who the project is for?
+
+The project is for the people who wanna get more skilled in HTML & CSS.
+
+## Similar Projects
+
+Here are some Similar projects that you might be interested.
+
+- [Amy's Portfolio - HTML, CSS Project](https://github.com/ShaifArfan/AMYs-Portfolio)
+- [Ayan's Portfolio - React JS Project](https://github.com/ShaifArfan/AYANs-portfolio)
+
+## Feedback
+
+If you have any feedback, please reach out to us at [@web_cifar](http://instagram.com/web_cifar)
+
+## Support
+
+For support, join our [Community Group](http://facebook.com/groups/webcifar).
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
